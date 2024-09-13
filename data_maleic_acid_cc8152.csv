@@ -1,0 +1,41 @@
+Website,https://asu-molecular-sciences-cloud-lab.github.io/bomb_calorimetry_v2/ 
+Simulated Calorimeter,Parr #8152
+Sample Name,Maleic Acid
+Formula,C4H4O4
+Molecular Weight (g/mol),116.052
+Sample Weight (g),1.0569
+Water Temp (deg C),24.30
+Room Temp (deg C),24.28
+Water Volume (L),2.0
+Wire Before (g),0.025
+Wire After (g),0.016
+=====,=====
+Time (s), Temperature (C)
+0.00,24.30
+60.00,24.30
+120.00,24.30
+180.00,24.30
+240.00,24.30
+300.00,24.30
+315.00,24.31
+330.00,24.41
+345.00,24.56
+360.00,24.72
+375.00,24.86
+390.00,24.99
+405.00,25.08
+420.00,25.16
+435.00,25.22
+450.00,25.27
+465.00,25.31
+480.00,25.33
+540.00,25.39
+600.00,25.41
+660.00,25.40
+720.00,25.40
+780.00,25.40
+840.00,25.40
+900.00,25.40
+960.00,25.40
+1020.00,25.39
+1080.00,25.39
